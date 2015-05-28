@@ -1,6 +1,6 @@
 {
 	"name" : "harmony/class-explorer",
-	"type" : "composer-plugin",
+	"type" : "library",
 	"description" : "A set of utility classes used by Harmony to explore PHP classes.",
 	"keywords" : [
 		"harmony",
